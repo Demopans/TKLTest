@@ -132,3 +132,13 @@ enough so anyone that wants to can jump in and make cool stuff happen.
 .. _Hello world: ./getting-started/helloworld.rst
 .. _Tips and tricks: ./tips/
 .. _Development: ./development/README.rst
+
+
+
+Adminer:
+
+DBGate: root@$ipaddr (port 3000)
+
+Dragonfly/Redis: 
+
+# Note, proxy req as needed with Caddy
